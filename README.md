@@ -1,5 +1,4 @@
-# Viva
-# UI/UX Project
+# UI/UX Project: Viva
 
 ## Overview
 
